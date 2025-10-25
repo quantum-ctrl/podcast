@@ -67,7 +67,7 @@ jobs:
             local date=$(date -r "$file" '+%a, %d %b %Y %T %Z')
             local filesize=$(stat -c%s "$file")
             local mimetype=$(file -b --mime-type "$file")
-            local fileurl="${BASE_URL}/${file}"
+            local fileurl="${BASE_URL}/${AUDIO_PATH}/${file}"
             
             result+="\n<item>"
             result+="\n\t<title>$title</title>"
