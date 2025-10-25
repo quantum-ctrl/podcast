@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>卓克-科技参考</title>
+<itunes:author>卓克</itunes:author>
+<itunes:image href="https://piccdn3.umiwi.com/img/202011/03/202011032054372409251528.jpeg" />
+<description>卓克科技参考播客</description>
+<language>zh-cn</language>
+<link>https://raw.githubusercontent.com/quantum-ctrl/podcast/main</link>
+<item>
+	<title>218问答日本诺奖为什么多萨顿对AI的质疑</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sat, 25 Oct 2025 07:53:12 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/218问答日本诺奖为什么多萨顿对AI的质疑.mp4" length="6643809" type="video/mp4"/>
+	<itunes:duration>0:10:45</itunes:duration>
+</item>
+<item>
+	<title>219问答稀土的竞争力在哪假期高速充电难能破解吗电水暖是智商税吗</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sat, 25 Oct 2025 07:53:12 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/219问答稀土的竞争力在哪假期高速充电难能破解吗电水暖是智商税吗.mp4" length="6750542" type="video/mp4"/>
+	<itunes:duration>0:10:55</itunes:duration>
+</item>
+<item>
+	<title>220糖越来越不受欢迎上</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sat, 25 Oct 2025 07:53:12 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/220糖越来越不受欢迎上.mp4" length="6883725" type="video/mp4"/>
+	<itunes:duration>0:11:08</itunes:duration>
+</item>
+<item>
+	<title>221糖越来越不受欢迎下</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sat, 25 Oct 2025 07:53:12 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/221糖越来越不受欢迎下.mp4" length="7783165" type="video/mp4"/>
+	<itunes:duration>0:12:36</itunes:duration>
+</item>
+<item>
+	<title>222强化学习的开端塞进导弹里的鸽子</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sat, 25 Oct 2025 07:53:12 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/222强化学习的开端塞进导弹里的鸽子.mp4" length="6437766" type="video/mp4"/>
+	<itunes:duration>0:10:25</itunes:duration>
+</item>
+</channel>
+</rss>
