@@ -23,43 +23,43 @@ jobs:
     - name: Generate podcast feed
       run: |
         #!/bin/bash
-        
-        # Set paths relative to repository
+        set -e
+
         FEED_FILE="feed/kjck_podcast.xml"
         AUDIO_PATH="audios/zhuoke"
         FEED_TITLE="卓克-科技参考"
         AUTHOR="卓克"
         BASE_URL="https://raw.githubusercontent.com/${{ github.repository }}/main"
-        
-        # Initialize result variable
+
         result=""
-        
-        # Function to rename files (remove " - 得到APP" and spaces)
+
         rename_files(){
             cd "$AUDIO_PATH"
-            echo "Starting rename process in $AUDIO_PATH"
-        
+            echo "🔄 Starting rename process in $AUDIO_PATH"
+
             # Step 1: Rename all files containing ' - 得到APP'
             for file in *' - 得到APP'*; do
                 if [ -f "$file" ]; then
                     newname=$(echo "$file" | sed 's/ - 得到APP//' | tr -d ' ')
                     mv "$file" "$newname"
                     echo "Renamed: $file -> $newname"
+                    git add "$newname"
+                    git rm --cached "$file" || true
                 fi
             done
-        
-            # Step 2: Delete any remaining old files that still match the pattern (safety cleanup)
+
+            # Step 2: Delete any remaining old files that still match the pattern
             for old in *' - 得到APP'*; do
                 if [ -f "$old" ]; then
                     echo "Deleting old file: $old"
                     rm -f "$old"
+                    git rm "$old" || true
                 fi
             done
-        
+
             cd ../..
         }
-        
-        # Function to create RSS item entry
+
         make_entry() {
             local file="$1"
             local title=$(basename "$file" | sed 's/\.[^.]*$//')
@@ -68,7 +68,7 @@ jobs:
             local filesize=$(stat -c%s "$file")
             local mimetype=$(file -b --mime-type "$file")
             local fileurl="${BASE_URL}/${AUDIO_PATH}/${file}"
-            
+
             result+="\n<item>"
             result+="\n\t<title>$title</title>"
             result+="\n\t<itunes:author>$AUTHOR</itunes:author>"
@@ -77,8 +77,7 @@ jobs:
             result+="\n\t<itunes:duration>$fileduration</itunes:duration>"
             result+="\n</item>"
         }
-        
-        # Function to write RSS header
+
         write_header() {
             result+="<?xml version=\"1.0\" encoding=\"UTF-8\"?>"
             result+="\n<rss xmlns:itunes=\"http://www.itunes.com/dtds/podcast-1.0.dtd\" version=\"2.0\">"
@@ -90,26 +89,20 @@ jobs:
             result+="\n<language>zh-cn</language>"
             result+="\n<link>$BASE_URL</link>"
         }
-        
-        # Function to write RSS footer
+
         write_footer() {
             result+="\n</channel>"
             result+="\n</rss>"
         }
-        
-        # Main function to generate the feed
+
         generate_feed() {
-            echo "Generating podcast feed..."
+            echo "🎧 Generating podcast feed..."
             echo "Audio path: $AUDIO_PATH"
             echo "Feed file: $FEED_FILE"
-            
-            # Write header
+
             write_header
-            
-            # Rename files if needed
             rename_files
-            
-            # Process each audio file
+
             cd "$AUDIO_PATH"
             for file in *.*; do
                 if [ -f "$file" ]; then
@@ -118,24 +111,21 @@ jobs:
                 fi
             done
             cd ../..
-            
-            # Write footer
+
             write_footer
-            
-            # Write to feed file
+
+            mkdir -p "$(dirname "$FEED_FILE")"
             echo -e "$result" > "$FEED_FILE"
-            echo "Feed generated successfully: $FEED_FILE"
+            echo "✅ Feed generated successfully: $FEED_FILE"
         }
-        
-        # Run the feed generation
+
         generate_feed
         
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add feed/kjck_podcast.xml
-        git add audios/zhuoke/*  # Add any renamed files
+        git add -A
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
