@@ -37,15 +37,25 @@ jobs:
         # Function to rename files (remove " - 得到APP" and spaces)
         rename_files(){
             cd "$AUDIO_PATH"
-            # Loop through files with ' - 得到APP' pattern
+            echo "Starting rename process in $AUDIO_PATH"
+        
+            # Step 1: Rename all files containing ' - 得到APP'
             for file in *' - 得到APP'*; do
                 if [ -f "$file" ]; then
-                    # Remove ' - 得到APP' and spaces
                     newname=$(echo "$file" | sed 's/ - 得到APP//' | tr -d ' ')
                     mv "$file" "$newname"
                     echo "Renamed: $file -> $newname"
                 fi
             done
+        
+            # Step 2: Delete any remaining old files that still match the pattern (safety cleanup)
+            for old in *' - 得到APP'*; do
+                if [ -f "$old" ]; then
+                    echo "Deleting old file: $old"
+                    rm -f "$old"
+                fi
+            done
+        
             cd ../..
         }
         
