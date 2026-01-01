@@ -1,0 +1,24 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Generic backup files
+*.bak
+*.swp
+*~
+
+# Podcast specific
+# We might want to keep the XML feed, but sometimes it's better to ignore local versions
+# feed/kjck_podcast.xml
+
+# Large audio/video files (usually not recommended to track large binaries in git)
+# However, this repo seems designed to host them for RSS access.
+# If they should be ignored, uncomment below:
+# audios/zhuoke/*.mp4
+# audios/zhuoke/*.m4a
+# audios/zhuoke/*.mp3
