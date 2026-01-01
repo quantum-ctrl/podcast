@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>卓克-科技参考</title>
+<itunes:author>卓克</itunes:author>
+<itunes:image href="https://piccdn3.umiwi.com/img/202011/03/202011032054372409251528.jpeg" />
+<description>卓克科技参考播客</description>
+<language>zh-cn</language>
+<link>https://raw.githubusercontent.com/quantum-ctrl/podcast/main</link>
+<item>
+	<title>278问答AI硬件智商税为什么做题更累什么时候买手机划算</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Thu, 1 Jan 2026 23:15:12 +0100</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/278问答AI硬件智商税为什么做题更累什么时候买手机划算.mp4" length="7785067" type="video/mp4"/>
+	<itunes:duration>0:12:35</itunes:duration>
+</item>
+<item>
+	<title>279问答国产EUV光刻机造出来了降噪耳机怎么选</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Thu, 1 Jan 2026 23:15:12 +0100</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/279问答国产EUV光刻机造出来了降噪耳机怎么选.mp4" length="8420043" type="video/mp4"/>
+	<itunes:duration>0:13:37</itunes:duration>
+</item>
+<item>
+	<title>280博弈澳大利亚青少年社交app禁令</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Thu, 1 Jan 2026 23:15:12 +0100</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/280博弈澳大利亚青少年社交app禁令.mp4" length="7648495" type="video/mp4"/>
+	<itunes:duration>0:12:22</itunes:duration>
+</item>
+</channel>
+</rss>
