@@ -28,5 +28,26 @@
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/280博弈澳大利亚青少年社交app禁令.mp4" length="7648495" type="video/mp4"/>
 	<itunes:duration>0:12:22</itunes:duration>
 </item>
+<item>
+	<title>281折腾忽悠5年后元宇宙被抬走</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Thu, 01 Jan 2026 22:37:35 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/281折腾忽悠5年后元宇宙被抬走.mp4" length="6500047" type="video/mp4"/>
+	<itunes:duration>0:10:31</itunes:duration>
+</item>
+<item>
+	<title>282因为AI1000天后我们身边有哪些确定会发生的变化上</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Thu, 01 Jan 2026 22:37:36 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/282因为AI1000天后我们身边有哪些确定会发生的变化上.mp4" length="6516233" type="video/mp4"/>
+	<itunes:duration>0:10:32</itunes:duration>
+</item>
+<item>
+	<title>283因为AI1000天后我们身边有哪些确定会发生的变化下</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Thu, 01 Jan 2026 22:37:36 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/283因为AI1000天后我们身边有哪些确定会发生的变化下.mp4" length="7017459" type="video/mp4"/>
+	<itunes:duration>0:11:21</itunes:duration>
+</item>
 </channel>
 </rss>
