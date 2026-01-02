@@ -42,7 +42,8 @@ jobs:
         FEED_FILE="feed/qqh_podcast.xml"
         AUDIO_PATH="audios/qqh"
         FEED_TITLE="跟宇宙结婚悄悄话"
-        AUTHOR="QQH"
+        AUTHOR="跟宇宙结婚"
+        COVER_URL="https://pic1.afdiancdn.com/user/7ffa1fa09fe411ea81d052540025c377/common/186cf0435bca72941ad3a41d8726cd73_w1000_h1000_s423.jpg"
         BASE_URL="https://raw.githubusercontent.com/${{ github.repository }}/main"
 
         result=""
@@ -75,6 +76,7 @@ jobs:
             result+="\n<channel>"
             result+="\n<title>$FEED_TITLE</title>"
             result+="\n<itunes:author>$AUTHOR</itunes:author>"
+            result+="\n<itunes:image href=\"$COVER_URL\" />"
             result+="\n<description>跟宇宙结婚悄悄话播客</description>"
             result+="\n<language>zh-cn</language>"
             result+="\n<link>$BASE_URL</link>"
