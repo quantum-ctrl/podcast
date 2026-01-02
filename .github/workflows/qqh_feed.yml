@@ -79,7 +79,6 @@ jobs:
             result+="\n<itunes:image href=\"$COVER_URL\" />"
             result+="\n<description>跟宇宙结婚悄悄话播客</description>"
             result+="\n<language>zh-cn</language>"
-            result+="\n<link>$BASE_URL</link>"
         }
 
         write_footer() {
