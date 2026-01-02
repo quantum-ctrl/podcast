@@ -1,0 +1,129 @@
+name: QQH Podcast Feed
+
+on:
+  schedule:
+    # Friday 7AM Beijing time = Thursday 23:00 UTC
+    - cron: '0 23 * * 4'
+  workflow_dispatch:
+
+jobs:
+  download-and-generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        pip install requests
+        sudo apt-get update
+        sudo apt-get install -y exiftool file
+    
+    - name: Download QQH audio
+      env:
+        QQH_AUTH_TOKEN: ${{ secrets.QQH_AUTH_TOKEN }}
+      run: python scripts/qqh_downloader.py
+    
+    - name: Generate QQH podcast feed
+      run: |
+        #!/bin/bash
+        set -e
+
+        FEED_FILE="feed/qqh_podcast.xml"
+        AUDIO_PATH="audios/qqh"
+        FEED_TITLE="跟宇宙结婚悄悄话"
+        AUTHOR="QQH"
+        BASE_URL="https://raw.githubusercontent.com/${{ github.repository }}/main"
+
+        result=""
+
+        make_entry() {
+            local file="$1"
+            local title=$(basename "$file" | sed 's/\.[^.]*$//')
+            local fileduration=$(exiftool -S -Duration "$file" 2>/dev/null | sed 's/Duration: //' | sed 's/ (approx)//' || echo "00:00:00")
+            local date=$(git log --follow --format=%aD --diff-filter=A -- "$file" | tail -1)
+            if [ -z "$date" ]; then
+                date=$(date '+%a, %d %b %Y %T %Z')
+            fi
+            local filesize=$(stat -c%s "$file")
+            local mimetype=$(file -b --mime-type "$file")
+            local encodedfile=$(echo "$file" | sed 's/ /%20/g')
+            local fileurl="${BASE_URL}/${AUDIO_PATH}/${encodedfile}"
+
+            result+="\n<item>"
+            result+="\n\t<title>$title</title>"
+            result+="\n\t<itunes:author>$AUTHOR</itunes:author>"
+            result+="\n\t<pubDate>$date</pubDate>"
+            result+="\n\t<enclosure url=\"$fileurl\" length=\"$filesize\" type=\"$mimetype\"/>"
+            result+="\n\t<itunes:duration>$fileduration</itunes:duration>"
+            result+="\n</item>"
+        }
+
+        write_header() {
+            result+="<?xml version=\"1.0\" encoding=\"UTF-8\"?>"
+            result+="\n<rss xmlns:itunes=\"http://www.itunes.com/dtds/podcast-1.0.dtd\" version=\"2.0\">"
+            result+="\n<channel>"
+            result+="\n<title>$FEED_TITLE</title>"
+            result+="\n<itunes:author>$AUTHOR</itunes:author>"
+            result+="\n<description>跟宇宙结婚悄悄话播客</description>"
+            result+="\n<language>zh-cn</language>"
+            result+="\n<link>$BASE_URL</link>"
+        }
+
+        write_footer() {
+            result+="\n</channel>"
+            result+="\n</rss>"
+        }
+
+        generate_feed() {
+            echo "🎧 Generating QQH podcast feed..."
+            echo "Audio path: $AUDIO_PATH"
+            echo "Feed file: $FEED_FILE"
+
+            # Check if there are any audio files
+            if [ ! -d "$AUDIO_PATH" ] || [ -z "$(ls -A $AUDIO_PATH 2>/dev/null | grep -v '.gitkeep')" ]; then
+                echo "No audio files found in $AUDIO_PATH, skipping feed generation"
+                exit 0
+            fi
+
+            write_header
+
+            cd "$AUDIO_PATH"
+            for file in *.*; do
+                if [ -f "$file" ] && [ "$file" != ".gitkeep" ]; then
+                    echo "Processing: $file"
+                    make_entry "$file"
+                fi
+            done
+            cd ../..
+
+            write_footer
+
+            mkdir -p "$(dirname "$FEED_FILE")"
+            echo -e "$result" > "$FEED_FILE"
+            echo "✅ QQH feed generated successfully: $FEED_FILE"
+        }
+
+        generate_feed
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Auto-download and generate QQH podcast feed"
+          git push
+        fi
