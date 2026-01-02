@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>跟宇宙结婚悄悄话</title>
+<itunes:author>QQH</itunes:author>
+<description>跟宇宙结婚悄悄话播客</description>
+<language>zh-cn</language>
+<link>https://raw.githubusercontent.com/quantum-ctrl/podcast/main</link>
+<item>
+	<title>vol.290-26岁的粉镜旅人</title>
+	<itunes:author>QQH</itunes:author>
+	<pubDate>Fri, 02 Jan 2026 21:55:46 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.290-26岁的粉镜旅人.mp3" length="73785722" type="audio/mpeg"/>
+	<itunes:duration>1:16:52</itunes:duration>
+</item>
+</channel>
+</rss>
