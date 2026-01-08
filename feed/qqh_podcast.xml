@@ -6,13 +6,19 @@
 <itunes:image href="https://pic1.afdiancdn.com/user/7ffa1fa09fe411ea81d052540025c377/common/186cf0435bca72941ad3a41d8726cd73_w1000_h1000_s423.jpg" />
 <description>跟宇宙结婚悄悄话播客</description>
 <language>zh-cn</language>
-<link>https://raw.githubusercontent.com/quantum-ctrl/podcast/main</link>
 <item>
 	<title>vol.290-26岁的粉镜旅人</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
 	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.290-26岁的粉镜旅人.mp3" length="73785722" type="audio/mpeg"/>
 	<itunes:duration>1:16:52</itunes:duration>
+</item>
+<item>
+	<title>vol.291-表白人机跳舞争霸赛</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Thu, 08 Jan 2026 23:12:10 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.291-表白人机跳舞争霸赛.mp3" length="75569990" type="audio/mpeg"/>
+	<itunes:duration>1:18:43</itunes:duration>
 </item>
 </channel>
 </rss>
