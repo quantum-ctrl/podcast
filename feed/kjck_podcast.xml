@@ -73,16 +73,30 @@
 <item>
 	<title>287无人机送外卖的一盆凉水下</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Fri, 09 Jan 2026 17:12:53 UTC</pubDate>
+	<pubDate>Fri, 9 Jan 2026 18:12:09 +0100</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/287无人机送外卖的一盆凉水下.mp4" length="7383922" type="video/mp4"/>
 	<itunes:duration>0:11:57</itunes:duration>
 </item>
 <item>
 	<title>288大语言模型是怎么记住我们的</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Fri, 09 Jan 2026 17:12:53 UTC</pubDate>
+	<pubDate>Fri, 9 Jan 2026 18:12:09 +0100</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/288大语言模型是怎么记住我们的.mp4" length="7192171" type="video/mp4"/>
 	<itunes:duration>0:11:38</itunes:duration>
+</item>
+<item>
+	<title>289Meta内部由高中生领导的科研</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Fri, 09 Jan 2026 17:14:38 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/289Meta内部由高中生领导的科研.mp4" length="8389713" type="video/mp4"/>
+	<itunes:duration>0:13:34</itunes:duration>
+</item>
+<item>
+	<title>290问答光芯片撼动CUDA了吗紫领工作需要什么能力</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Fri, 09 Jan 2026 17:14:38 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/290问答光芯片撼动CUDA了吗紫领工作需要什么能力.mp4" length="7603397" type="video/mp4"/>
+	<itunes:duration>0:12:18</itunes:duration>
 </item>
 </channel>
 </rss>
