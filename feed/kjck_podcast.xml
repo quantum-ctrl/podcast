@@ -52,9 +52,23 @@
 <item>
 	<title>284问答音乐感觉是先验的吗外星人电影值得关注吗</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Fri, 02 Jan 2026 22:07:07 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 23:06:23 +0100</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/284问答音乐感觉是先验的吗外星人电影值得关注吗.mp4" length="7708040" type="video/mp4"/>
 	<itunes:duration>0:12:28</itunes:duration>
+</item>
+<item>
+	<title>285问答怎么看Meta收购Manus演化是随机的还是有方向的</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Fri, 09 Jan 2026 17:09:04 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/285问答怎么看Meta收购Manus演化是随机的还是有方向的.mp4" length="6991596" type="video/mp4"/>
+	<itunes:duration>0:11:18</itunes:duration>
+</item>
+<item>
+	<title>286无人机送外卖的一盆凉水上</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Fri, 09 Jan 2026 17:09:04 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/286无人机送外卖的一盆凉水上.mp4" length="6183404" type="video/mp4"/>
+	<itunes:duration>0:10:00</itunes:duration>
 </item>
 </channel>
 </rss>
