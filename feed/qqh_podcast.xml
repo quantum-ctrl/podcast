@@ -23,9 +23,16 @@
 <item>
 	<title>vol.292-伙子委咕在巴黎</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Thu, 15 Jan 2026 23:12:54 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.292-伙子委咕在巴黎.mp3" length="83384573" type="audio/mpeg"/>
 	<itunes:duration>1:26:52</itunes:duration>
+</item>
+<item>
+	<title>vol.293-丢掉的分手清单</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Thu, 22 Jan 2026 23:13:27 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.293-丢掉的分手清单.mp3" length="63977474" type="audio/mpeg"/>
+	<itunes:duration>1:06:39</itunes:duration>
 </item>
 </channel>
 </rss>
