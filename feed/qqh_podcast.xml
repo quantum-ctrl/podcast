@@ -30,9 +30,16 @@
 <item>
 	<title>vol.293-丢掉的分手清单</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Thu, 22 Jan 2026 23:13:27 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.293-丢掉的分手清单.mp3" length="63977474" type="audio/mpeg"/>
 	<itunes:duration>1:06:39</itunes:duration>
+</item>
+<item>
+	<title>vol.294-悄悄十二码之U23国家队决赛表现大剖析</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Thu, 29 Jan 2026 23:18:11 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.294-悄悄十二码之U23国家队决赛表现大剖析.mp3" length="68641898" type="audio/mpeg"/>
+	<itunes:duration>1:11:30</itunes:duration>
 </item>
 </channel>
 </rss>
