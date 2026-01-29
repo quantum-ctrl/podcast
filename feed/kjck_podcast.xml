@@ -171,23 +171,44 @@
 <item>
 	<title>301居里夫人4不公的待遇</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Sun, 25 Jan 2026 19:33:10 UTC</pubDate>
+	<pubDate>Sun, 25 Jan 2026 20:32:11 +0100</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/301居里夫人4不公的待遇.mp4" length="7769655" type="video/mp4"/>
 	<itunes:duration>0:12:34</itunes:duration>
 </item>
 <item>
 	<title>302问答人类能延续百万年吗记忆可以遗传吗</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Sun, 25 Jan 2026 19:33:11 UTC</pubDate>
+	<pubDate>Sun, 25 Jan 2026 20:32:11 +0100</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/302问答人类能延续百万年吗记忆可以遗传吗.mp4" length="6798869" type="video/mp4"/>
 	<itunes:duration>0:11:00</itunes:duration>
 </item>
 <item>
 	<title>303问答信息孤岛会怎么变后天努力vs基因信息投毒怎么办</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Sun, 25 Jan 2026 19:33:11 UTC</pubDate>
+	<pubDate>Sun, 25 Jan 2026 20:32:11 +0100</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/303问答信息孤岛会怎么变后天努力vs基因信息投毒怎么办.mp4" length="6440714" type="video/mp4"/>
 	<itunes:duration>0:10:25</itunes:duration>
+</item>
+<item>
+	<title>304居里夫人5来自中国的研究生</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Thu, 29 Jan 2026 10:46:25 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/304居里夫人5来自中国的研究生.mp4" length="8120783" type="video/mp4"/>
+	<itunes:duration>0:13:08</itunes:duration>
+</item>
+<item>
+	<title>305赤壁赋理工科版本解读上</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Thu, 29 Jan 2026 10:46:25 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/305赤壁赋理工科版本解读上.mp4" length="7788175" type="video/mp4"/>
+	<itunes:duration>0:12:36</itunes:duration>
+</item>
+<item>
+	<title>306赤壁赋理工科版本解读中</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Thu, 29 Jan 2026 10:46:25 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/306赤壁赋理工科版本解读中.mp4" length="8860061" type="video/mp4"/>
+	<itunes:duration>0:14:20</itunes:duration>
 </item>
 </channel>
 </rss>
