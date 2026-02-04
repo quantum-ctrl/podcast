@@ -192,23 +192,44 @@
 <item>
 	<title>304居里夫人5来自中国的研究生</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Thu, 29 Jan 2026 10:46:25 UTC</pubDate>
+	<pubDate>Thu, 1 Jan 2026 23:15:12 +0100</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/304居里夫人5来自中国的研究生.mp4" length="8120783" type="video/mp4"/>
 	<itunes:duration>0:13:08</itunes:duration>
 </item>
 <item>
 	<title>305赤壁赋理工科版本解读上</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Thu, 29 Jan 2026 10:46:25 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 23:06:23 +0100</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/305赤壁赋理工科版本解读上.mp4" length="7788175" type="video/mp4"/>
 	<itunes:duration>0:12:36</itunes:duration>
 </item>
 <item>
 	<title>306赤壁赋理工科版本解读中</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Thu, 29 Jan 2026 10:46:25 UTC</pubDate>
+	<pubDate>Thu, 1 Jan 2026 23:15:12 +0100</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/306赤壁赋理工科版本解读中.mp4" length="8860061" type="video/mp4"/>
 	<itunes:duration>0:14:20</itunes:duration>
+</item>
+<item>
+	<title>307赤壁赋理工科版本解读下</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 04 Feb 2026 16:22:01 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/307赤壁赋理工科版本解读下.mp4" length="8266031" type="video/mp4"/>
+	<itunes:duration>0:13:22</itunes:duration>
+</item>
+<item>
+	<title>308问答Clawdbot大火怎么看尼帕病毒危险吗</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 04 Feb 2026 16:22:01 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/308问答Clawdbot大火怎么看尼帕病毒危险吗.mp4" length="7577891" type="video/mp4"/>
+	<itunes:duration>0:12:15</itunes:duration>
+</item>
+<item>
+	<title>309问答孩子顾不上长远目标沉迷手机怎么办</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 04 Feb 2026 16:22:01 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/309问答孩子顾不上长远目标沉迷手机怎么办.mp4" length="7252692" type="video/mp4"/>
+	<itunes:duration>0:11:44</itunes:duration>
 </item>
 </channel>
 </rss>
