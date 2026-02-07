@@ -41,5 +41,12 @@
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.294-悄悄十二码之U23国家队决赛表现大剖析.mp3" length="68641898" type="audio/mpeg"/>
 	<itunes:duration>1:11:30</itunes:duration>
 </item>
+<item>
+	<title>vol.295-酒业论坛与充电宝的回收</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Sat, 07 Feb 2026 15:02:42 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.295-酒业论坛与充电宝的回收.mp3" length="71887351" type="audio/mpeg"/>
+	<itunes:duration>1:14:53</itunes:duration>
+</item>
 </channel>
 </rss>
