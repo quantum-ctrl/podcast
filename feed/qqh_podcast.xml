@@ -44,9 +44,16 @@
 <item>
 	<title>vol.295-酒业论坛与充电宝的回收</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Sat, 07 Feb 2026 15:02:42 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.295-酒业论坛与充电宝的回收.mp3" length="71887351" type="audio/mpeg"/>
 	<itunes:duration>1:14:53</itunes:duration>
+</item>
+<item>
+	<title>vol.296-年货年会马特塔</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Thu, 12 Feb 2026 23:18:18 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.296-年货年会马特塔.mp3" length="70308302" type="audio/mpeg"/>
+	<itunes:duration>1:13:14</itunes:duration>
 </item>
 </channel>
 </rss>
