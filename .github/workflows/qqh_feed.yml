@@ -60,7 +60,7 @@ jobs:
                 date=$(exiftool -d "%a, %d %b %Y %H:%M:%S %z" -S -DateTimeOriginal "$file" 2>/dev/null | sed 's/DateTimeOriginal: //')
             fi
             if [[ -z "$date" || "$date" == 0000* ]]; then
-                date=$(git log --follow --format=%aD --diff-filter=A -- "$file" | tail -1)
+                date=$(git log --follow --format=%aD --diff-filter=A -- "$file" | head -1)
             fi
             if [[ -z "$date" || "$date" == 0000* ]]; then
                 date=$(date '+%a, %d %b %Y %T %Z')
@@ -106,11 +106,6 @@ jobs:
             echo "Audio path: $AUDIO_PATH"
             echo "Feed file: $FEED_FILE"
 
-            # Check if there are any audio files
-            if [ ! -d "$AUDIO_PATH" ] || [ -z "$(ls -A $AUDIO_PATH 2>/dev/null | grep -v '.gitkeep')" ]; then
-                echo "No audio files found in $AUDIO_PATH, skipping feed generation"
-                exit 0
-            fi
 
             write_header
 

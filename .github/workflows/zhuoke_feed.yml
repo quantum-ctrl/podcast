@@ -76,7 +76,7 @@ jobs:
                 date=$(exiftool -d "%a, %d %b %Y %H:%M:%S %z" -S -DateTimeOriginal "$file" 2>/dev/null | sed 's/DateTimeOriginal: //')
             fi
             if [[ -z "$date" || "$date" == 0000* ]]; then
-                date=$(git log --follow --format=%aD --diff-filter=A -- "$file" | tail -1)
+                date=$(git log --follow --format=%aD --diff-filter=A -- "$file" | head -1)
             fi
             if [[ -z "$date" || "$date" == 0000* ]]; then
                 date=$(date '+%a, %d %b %Y %T %Z')

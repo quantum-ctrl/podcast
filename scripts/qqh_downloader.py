@@ -98,6 +98,7 @@ def get_latest_audio_info(api_url, headers):
             data = response.json()
             post_list = data.get('data', {}).get('list', [])
             if post_list:
+                print(f"Success: Found {len(post_list)} posts in the album.")
                 latest_post = post_list[0]
                 title = latest_post.get('title', 'untitled_audio')
                 audio_url = latest_post.get('audio')
