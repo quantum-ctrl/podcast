@@ -53,16 +53,16 @@ jobs:
             local title=$(basename "$file" | sed 's/\.[^.]*$//')
             local fileduration=$(exiftool -S -Duration "$file" 2>/dev/null | sed 's/Duration: //' | sed 's/ (approx)//' || echo "00:00:00")
             local date=$(exiftool -d "%a, %d %b %Y %H:%M:%S %z" -S -CreateDate "$file" 2>/dev/null | sed 's/CreateDate: //')
-            if [ -z "$date" ]; then
+            if [[ -z "$date" || "$date" == 0000* ]]; then
                 date=$(exiftool -d "%a, %d %b %Y %H:%M:%S %z" -S -ModifyDate "$file" 2>/dev/null | sed 's/ModifyDate: //')
             fi
-            if [ -z "$date" ]; then
+            if [[ -z "$date" || "$date" == 0000* ]]; then
                 date=$(exiftool -d "%a, %d %b %Y %H:%M:%S %z" -S -DateTimeOriginal "$file" 2>/dev/null | sed 's/DateTimeOriginal: //')
             fi
-            if [ -z "$date" ]; then
+            if [[ -z "$date" || "$date" == 0000* ]]; then
                 date=$(git log --follow --format=%aD --diff-filter=A -- "$file" | tail -1)
             fi
-            if [ -z "$date" ]; then
+            if [[ -z "$date" || "$date" == 0000* ]]; then
                 date=$(date '+%a, %d %b %Y %T %Z')
             fi
             local filesize=$(stat -c%s "$file")
