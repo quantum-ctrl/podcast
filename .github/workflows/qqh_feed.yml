@@ -67,18 +67,24 @@ jobs:
             result+="\n\t<pubDate>$date</pubDate>"
             result+="\n\t<enclosure url=\"$fileurl\" length=\"$filesize\" type=\"$mimetype\"/>"
             result+="\n\t<itunes:duration>$fileduration</itunes:duration>"
+            result+="\n\t<guid isPermaLink=\"false\">qqh_$(echo -n \"$title\" | md5sum | cut -d' ' -f1)</guid>"
             result+="\n</item>"
         }
 
         write_header() {
             result+="<?xml version=\"1.0\" encoding=\"UTF-8\"?>"
-            result+="\n<rss xmlns:itunes=\"http://www.itunes.com/dtds/podcast-1.0.dtd\" version=\"2.0\">"
+            result+="\n<rss xmlns:itunes=\"http://www.itunes.com/dtds/podcast-1.0.dtd\" xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:podcast=\"https://podcastindex.org/namespace/1.0\" version=\"2.0\">"
             result+="\n<channel>"
             result+="\n<title>$FEED_TITLE</title>"
             result+="\n<itunes:author>$AUTHOR</itunes:author>"
             result+="\n<itunes:image href=\"$COVER_URL\" />"
-            result+="\n<description>跟宇宙结婚悄悄话播客</description>"
+            result+="\n<description>跟宇宙结婚悄悄话播客 - 这是一个专注于分享有趣见解、生活琐事和宇宙奥秘的独家节目。为听众带来轻松愉快的收听体验，探索那些在主节目之外的精彩话题。</description>"
             result+="\n<language>zh-cn</language>"
+            result+="\n<atom:link href=\"$BASE_URL/$FEED_FILE\" rel=\"self\" type=\"application/rss+xml\" />"
+            result+="\n<itunes:category text=\"Society &amp; Culture\"/>"
+            result+="\n<itunes:explicit>no</itunes:explicit>"
+            result+="\n<podcast:locked>no</podcast:locked>"
+            result+="\n<podcast:guid>8d8e5772-a164-5867-b50a-f0907e5977a4</podcast:guid>"
         }
 
         write_footer() {
