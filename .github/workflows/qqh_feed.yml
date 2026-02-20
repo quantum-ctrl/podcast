@@ -27,7 +27,7 @@ jobs:
       run: |
         pip install requests
         sudo apt-get update
-        sudo apt-get install -y exiftool file
+        sudo apt-get install -y exiftool file ffmpeg
     
     - name: Download QQH audio
       env:

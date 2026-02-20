@@ -74,7 +74,34 @@ def download_audio(url, headers, file_name="downloaded_audio.mp3"):
                     f.write(data)
 
             print(f"\nDownload complete! File saved as {file_name}")
-            print(f"File size: {os.path.getsize(download_path) / (1024*1024):.2f} MB")
+            
+            file_size_mb = os.path.getsize(download_path) / (1024*1024)
+            print(f"File size: {file_size_mb:.2f} MB")
+            
+            # Check if file size exceeds 90MB, if so compress it
+            if file_size_mb > 90:
+                print(f"File size ({file_size_mb:.2f} MB) exceeds 90MB limit. Compressing to 64kbps MP3...")
+                temp_path = download_path + ".temp.mp3"
+                import subprocess
+                try:
+                    subprocess.run(
+                        ["ffmpeg", "-i", download_path, "-codec:a", "libmp3lame", "-b:a", "64k", "-y", temp_path],
+                        check=True,
+                        capture_output=True,
+                        text=True
+                    )
+                    os.replace(temp_path, download_path)
+                    new_size_mb = os.path.getsize(download_path) / (1024*1024)
+                    print(f"Compression complete! New file size: {new_size_mb:.2f} MB")
+                except subprocess.CalledProcessError as e:
+                    print(f"Error: Failed to compress audio. ffmpeg error: {e.stderr}")
+                    if os.path.exists(temp_path):
+                        os.remove(temp_path)
+                    return False
+                except FileNotFoundError:
+                    print("Error: ffmpeg is not installed or not in PATH. Skipping compression.")
+                    return False
+
             return True
 
         else:
