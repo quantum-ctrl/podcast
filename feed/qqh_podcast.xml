@@ -70,10 +70,18 @@
 <item>
 	<title>vol.297-2026春晚大盘点</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Fri, 20 Feb 2026 21:32:54 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.297-2026春晚大盘点.mp3" length="77718091" type="audio/mpeg"/>
 	<itunes:duration>2:41:55</itunes:duration>
 	<guid isPermaLink="false">qqh_f01477a3d31f8beeb01f22556885ce11</guid>
+</item>
+<item>
+	<title>vol.298-劝您少喝穿越时空的玩具</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Thu, 26 Feb 2026 23:22:03 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.298-劝您少喝穿越时空的玩具.mp3" length="67039443" type="audio/mpeg"/>
+	<itunes:duration>1:09:50</itunes:duration>
+	<guid isPermaLink="false">qqh_128f5be5fd8df76150429f968beeb329</guid>
 </item>
 </channel>
 </rss>
