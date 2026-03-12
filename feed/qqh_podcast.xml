@@ -86,10 +86,18 @@
 <item>
 	<title>vol.299-口诀是伊拉克农家乐</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Thu, 05 Mar 2026 23:44:54 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.299-口诀是伊拉克农家乐.mp3" length="68708354" type="audio/mpeg"/>
 	<itunes:duration>1:11:34</itunes:duration>
 	<guid isPermaLink="false">qqh_0db6342b71ff6f47093fa7eb90fe9c08</guid>
+</item>
+<item>
+	<title>vol.300-辉夜姬爱美丽</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Thu, 12 Mar 2026 23:20:10 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.300-辉夜姬爱美丽.mp3" length="78970924" type="audio/mpeg"/>
+	<itunes:duration>1:22:16</itunes:duration>
+	<guid isPermaLink="false">qqh_d23b47c739493506b7ea8af05e3ba536</guid>
 </item>
 </channel>
 </rss>
