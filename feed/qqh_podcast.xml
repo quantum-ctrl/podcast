@@ -94,10 +94,18 @@
 <item>
 	<title>vol.300-辉夜姬爱美丽</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Thu, 12 Mar 2026 23:20:10 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.300-辉夜姬爱美丽.mp3" length="78970924" type="audio/mpeg"/>
 	<itunes:duration>1:22:16</itunes:duration>
 	<guid isPermaLink="false">qqh_d23b47c739493506b7ea8af05e3ba536</guid>
+</item>
+<item>
+	<title>vol.301-给国宝毛腿颁奖</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Thu, 19 Mar 2026 23:22:31 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.301-给国宝毛腿颁奖.mp3" length="78466865" type="audio/mpeg"/>
+	<itunes:duration>1:21:44</itunes:duration>
+	<guid isPermaLink="false">qqh_053b33574920eb2eecdeb3e4ca5387fd</guid>
 </item>
 </channel>
 </rss>
