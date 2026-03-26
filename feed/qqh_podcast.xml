@@ -102,10 +102,18 @@
 <item>
 	<title>vol.301-给国宝毛腿颁奖</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Thu, 19 Mar 2026 23:22:31 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.301-给国宝毛腿颁奖.mp3" length="78466865" type="audio/mpeg"/>
 	<itunes:duration>1:21:44</itunes:duration>
 	<guid isPermaLink="false">qqh_053b33574920eb2eecdeb3e4ca5387fd</guid>
+</item>
+<item>
+	<title>vol.302-刃牙老兽星、绿茵老男孩</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Thu, 26 Mar 2026 23:23:53 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.302-刃牙老兽星、绿茵老男孩.mp3" length="73486463" type="audio/mpeg"/>
+	<itunes:duration>1:16:33</itunes:duration>
+	<guid isPermaLink="false">qqh_d5906fb7960dfef7549682e354c5cbdd</guid>
 </item>
 </channel>
 </rss>
