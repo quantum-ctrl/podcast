@@ -110,10 +110,18 @@
 <item>
 	<title>vol.302-刃牙老兽星、绿茵老男孩</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Thu, 26 Mar 2026 23:23:53 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.302-刃牙老兽星、绿茵老男孩.mp3" length="73486463" type="audio/mpeg"/>
 	<itunes:duration>1:16:33</itunes:duration>
 	<guid isPermaLink="false">qqh_d5906fb7960dfef7549682e354c5cbdd</guid>
+</item>
+<item>
+	<title>vol.303-欢乐谷三收获 意大利三出局</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Thu, 02 Apr 2026 23:27:58 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.303-欢乐谷三收获%20意大利三出局.mp3" length="67377154" type="audio/mpeg"/>
+	<itunes:duration>1:10:11</itunes:duration>
+	<guid isPermaLink="false">qqh_ee8b719b824e6ba7f9bf5f4ff20d3b7d</guid>
 </item>
 </channel>
 </rss>
