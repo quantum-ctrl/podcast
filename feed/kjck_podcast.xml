@@ -12,5 +12,21 @@
 <itunes:explicit>no</itunes:explicit>
 <podcast:locked>no</podcast:locked>
 <podcast:guid>76722d3d-355b-513b-a9a3-52467144709d</podcast:guid>
+<item>
+	<title>000加餐给OpenClaw浇凉水</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Fri, 03 Apr 2026 19:36:27 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/000加餐给OpenClaw浇凉水.mp4" length="10292435" type="video/mp4"/>
+	<itunes:duration>0:16:39</itunes:duration>
+	<guid isPermaLink="false">zhuoke_39b430aca73d0ca803a54ed37812e83b</guid>
+</item>
+<item>
+	<title>000发刊词当AI无所不能你更要做到心中有数</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Fri, 03 Apr 2026 19:36:27 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/000发刊词当AI无所不能你更要做到心中有数.mp4" length="5889956" type="video/mp4"/>
+	<itunes:duration>0:09:31</itunes:duration>
+	<guid isPermaLink="false">zhuoke_adab5ef4a5184b48b51f4faa4841718a</guid>
+</item>
 </channel>
 </rss>
