@@ -118,10 +118,18 @@
 <item>
 	<title>vol.303-欢乐谷三收获 意大利三出局</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Thu, 02 Apr 2026 23:27:58 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.303-欢乐谷三收获%20意大利三出局.mp3" length="67377154" type="audio/mpeg"/>
 	<itunes:duration>1:10:11</itunes:duration>
 	<guid isPermaLink="false">qqh_ee8b719b824e6ba7f9bf5f4ff20d3b7d</guid>
+</item>
+<item>
+	<title>vol.304-刀老师本命年悄悄地选择(上)</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Thu, 09 Apr 2026 15:43:48 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.304-刀老师本命年悄悄地选择(上).mp3" length="89906826" type="audio/mpeg"/>
+	<itunes:duration>1:33:39</itunes:duration>
+	<guid isPermaLink="false">qqh_d13ee8ca828141ef52d076a0b69d4e9f</guid>
 </item>
 </channel>
 </rss>
