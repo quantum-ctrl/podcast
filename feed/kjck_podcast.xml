@@ -13,9 +13,17 @@
 <podcast:locked>no</podcast:locked>
 <podcast:guid>76722d3d-355b-513b-a9a3-52467144709d</podcast:guid>
 <item>
+	<title>000加餐中国摩托车的崛起</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 15 Apr 2026 19:48:16 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/000加餐中国摩托车的崛起.mp4" length="9670480" type="video/mp4"/>
+	<itunes:duration>0:15:38</itunes:duration>
+	<guid isPermaLink="false">zhuoke_a3027dbc26762863bc64ae145857bbf0</guid>
+</item>
+<item>
 	<title>000加餐给OpenClaw浇凉水</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Fri, 03 Apr 2026 19:36:27 UTC</pubDate>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/000加餐给OpenClaw浇凉水.mp4" length="10292435" type="video/mp4"/>
 	<itunes:duration>0:16:39</itunes:duration>
 	<guid isPermaLink="false">zhuoke_39b430aca73d0ca803a54ed37812e83b</guid>
@@ -23,10 +31,18 @@
 <item>
 	<title>000发刊词当AI无所不能你更要做到心中有数</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Fri, 03 Apr 2026 19:36:27 UTC</pubDate>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/000发刊词当AI无所不能你更要做到心中有数.mp4" length="5889956" type="video/mp4"/>
 	<itunes:duration>0:09:31</itunes:duration>
 	<guid isPermaLink="false">zhuoke_adab5ef4a5184b48b51f4faa4841718a</guid>
+</item>
+<item>
+	<title>001内存和SSD的价格还要涨2年</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 15 Apr 2026 19:48:17 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/001内存和SSD的价格还要涨2年.mp4" length="7739031" type="video/mp4"/>
+	<itunes:duration>0:12:31</itunes:duration>
+	<guid isPermaLink="false">zhuoke_85059f6af0966c6b0486f096c2a29144</guid>
 </item>
 </channel>
 </rss>
