@@ -15,7 +15,7 @@
 <item>
 	<title>000加餐中国摩托车的崛起</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Wed, 15 Apr 2026 19:48:16 UTC</pubDate>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/000加餐中国摩托车的崛起.mp4" length="9670480" type="video/mp4"/>
 	<itunes:duration>0:15:38</itunes:duration>
 	<guid isPermaLink="false">zhuoke_a3027dbc26762863bc64ae145857bbf0</guid>
@@ -39,10 +39,34 @@
 <item>
 	<title>001内存和SSD的价格还要涨2年</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Wed, 15 Apr 2026 19:48:17 UTC</pubDate>
+	<pubDate>Wed, 15 Apr 2026 21:47:22 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/001内存和SSD的价格还要涨2年.mp4" length="7739031" type="video/mp4"/>
 	<itunes:duration>0:12:31</itunes:duration>
 	<guid isPermaLink="false">zhuoke_85059f6af0966c6b0486f096c2a29144</guid>
+</item>
+<item>
+	<title>002屏幕护眼一个被扭曲的需求</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 15 Apr 2026 19:50:58 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/002屏幕护眼一个被扭曲的需求.mp4" length="8979840" type="video/mp4"/>
+	<itunes:duration>0:14:31</itunes:duration>
+	<guid isPermaLink="false">zhuoke_ff60e4b16af5a0f136bfbe9a7c459a54</guid>
+</item>
+<item>
+	<title>003把服务器发射到太空有多离谱</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 15 Apr 2026 19:50:59 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/003把服务器发射到太空有多离谱.mp4" length="8885577" type="video/mp4"/>
+	<itunes:duration>0:14:22</itunes:duration>
+	<guid isPermaLink="false">zhuoke_0728d31fe0dcf1c9f19d419bfac0194a</guid>
+</item>
+<item>
+	<title>004孩子应该怎么学习数学</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 15 Apr 2026 19:50:59 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/004孩子应该怎么学习数学.mp4" length="8151577" type="video/mp4"/>
+	<itunes:duration>0:13:11</itunes:duration>
+	<guid isPermaLink="false">zhuoke_55b8777d0d4eace508ac7aae92c83c47</guid>
 </item>
 </channel>
 </rss>
