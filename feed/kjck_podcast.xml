@@ -47,7 +47,7 @@
 <item>
 	<title>002屏幕护眼一个被扭曲的需求</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Wed, 15 Apr 2026 19:50:58 UTC</pubDate>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/002屏幕护眼一个被扭曲的需求.mp4" length="8979840" type="video/mp4"/>
 	<itunes:duration>0:14:31</itunes:duration>
 	<guid isPermaLink="false">zhuoke_ff60e4b16af5a0f136bfbe9a7c459a54</guid>
@@ -55,7 +55,7 @@
 <item>
 	<title>003把服务器发射到太空有多离谱</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Wed, 15 Apr 2026 19:50:59 UTC</pubDate>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/003把服务器发射到太空有多离谱.mp4" length="8885577" type="video/mp4"/>
 	<itunes:duration>0:14:22</itunes:duration>
 	<guid isPermaLink="false">zhuoke_0728d31fe0dcf1c9f19d419bfac0194a</guid>
@@ -63,10 +63,18 @@
 <item>
 	<title>004孩子应该怎么学习数学</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Wed, 15 Apr 2026 19:50:59 UTC</pubDate>
+	<pubDate>Wed, 15 Apr 2026 21:49:45 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/004孩子应该怎么学习数学.mp4" length="8151577" type="video/mp4"/>
 	<itunes:duration>0:13:11</itunes:duration>
 	<guid isPermaLink="false">zhuoke_55b8777d0d4eace508ac7aae92c83c47</guid>
+</item>
+<item>
+	<title>005训练大模型下载盗版切书</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Thu, 16 Apr 2026 19:17:39 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/005训练大模型下载盗版切书.mp4" length="8637125" type="video/mp4"/>
+	<itunes:duration>0:13:58</itunes:duration>
+	<guid isPermaLink="false">zhuoke_7a57a479fc13036ec51b54a000977ac5</guid>
 </item>
 </channel>
 </rss>
