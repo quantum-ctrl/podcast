@@ -131,5 +131,13 @@
 	<itunes:duration>1:33:39</itunes:duration>
 	<guid isPermaLink="false">qqh_d13ee8ca828141ef52d076a0b69d4e9f</guid>
 </item>
+<item>
+	<title>vol.305-刀老师本命年悄悄地选择(中)</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Thu, 16 Apr 2026 23:34:07 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.305-刀老师本命年悄悄地选择(中).mp3" length="81301882" type="audio/mpeg"/>
+	<itunes:duration>1:24:41</itunes:duration>
+	<guid isPermaLink="false">qqh_0ba340e5c59c098d7e8df2eb7b64658a</guid>
+</item>
 </channel>
 </rss>
