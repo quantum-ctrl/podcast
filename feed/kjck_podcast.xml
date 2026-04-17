@@ -71,10 +71,18 @@
 <item>
 	<title>005训练大模型下载盗版切书</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Thu, 16 Apr 2026 19:17:39 UTC</pubDate>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/005训练大模型下载盗版切书.mp4" length="8637125" type="video/mp4"/>
 	<itunes:duration>0:13:58</itunes:duration>
 	<guid isPermaLink="false">zhuoke_7a57a479fc13036ec51b54a000977ac5</guid>
+</item>
+<item>
+	<title>006问答内存和闪存价格的补充</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Fri, 17 Apr 2026 19:40:41 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/006问答内存和闪存价格的补充.mp4" length="7317260" type="video/mp4"/>
+	<itunes:duration>0:11:50</itunes:duration>
+	<guid isPermaLink="false">zhuoke_2751bb45a047521ee56fc00f8524ffe8</guid>
 </item>
 </channel>
 </rss>
