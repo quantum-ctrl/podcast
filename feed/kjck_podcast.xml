@@ -79,10 +79,18 @@
 <item>
 	<title>006问答内存和闪存价格的补充</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Fri, 17 Apr 2026 19:40:41 UTC</pubDate>
+	<pubDate>Fri, 17 Apr 2026 21:39:27 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/006问答内存和闪存价格的补充.mp4" length="7317260" type="video/mp4"/>
 	<itunes:duration>0:11:50</itunes:duration>
 	<guid isPermaLink="false">zhuoke_2751bb45a047521ee56fc00f8524ffe8</guid>
+</item>
+<item>
+	<title>008Claude自我意识觉醒了</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Mon, 20 Apr 2026 21:47:35 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/008Claude自我意识觉醒了.mp4" length="7126706" type="video/mp4"/>
+	<itunes:duration>0:11:32</itunes:duration>
+	<guid isPermaLink="false">zhuoke_f8d85a45ff3afca5aaa83a7f0252badc</guid>
 </item>
 </channel>
 </rss>
