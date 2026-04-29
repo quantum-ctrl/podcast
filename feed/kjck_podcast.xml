@@ -95,7 +95,7 @@
 <item>
 	<title>009美国重返月球上这个计划为什么诞生</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Wed, 29 Apr 2026 18:34:18 UTC</pubDate>
+	<pubDate>Wed, 29 Apr 2026 20:33:03 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/009美国重返月球上这个计划为什么诞生.mp4" length="7788290" type="video/mp4"/>
 	<itunes:duration>0:12:36</itunes:duration>
 	<guid isPermaLink="false">zhuoke_ffffb999531c1a4bc029681a2a1da9d2</guid>
@@ -103,7 +103,7 @@
 <item>
 	<title>010美国重返月球中与中国的竞争</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Wed, 29 Apr 2026 18:34:19 UTC</pubDate>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/010美国重返月球中与中国的竞争.mp4" length="8463218" type="video/mp4"/>
 	<itunes:duration>0:13:41</itunes:duration>
 	<guid isPermaLink="false">zhuoke_480972de2603733a327e80437de36dbe</guid>
@@ -111,7 +111,7 @@
 <item>
 	<title>011美国重返月球下氦3神话</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Wed, 29 Apr 2026 18:34:19 UTC</pubDate>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/011美国重返月球下氦3神话.mp4" length="9073378" type="video/mp4"/>
 	<itunes:duration>0:14:40</itunes:duration>
 	<guid isPermaLink="false">zhuoke_6c83d82b17b7dc29ce8ad7c49fef5804</guid>
@@ -119,10 +119,42 @@
 <item>
 	<title>012问答有效失败伤自信机器人半马好看吗AI工具实名认证</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Wed, 29 Apr 2026 18:34:19 UTC</pubDate>
+	<pubDate>Wed, 29 Apr 2026 20:33:03 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/012问答有效失败伤自信机器人半马好看吗AI工具实名认证.mp4" length="7788290" type="video/mp4"/>
 	<itunes:duration>0:12:36</itunes:duration>
 	<guid isPermaLink="false">zhuoke_0028be31431fd67753aad7b7808bed4f</guid>
+</item>
+<item>
+	<title>013问答AI立场怎么公正AI巨头如何倒下中本聪找到了</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 29 Apr 2026 18:36:41 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/013问答AI立场怎么公正AI巨头如何倒下中本聪找到了.mp4" length="7745868" type="video/mp4"/>
+	<itunes:duration>0:12:32</itunes:duration>
+	<guid isPermaLink="false">zhuoke_4339f54d4d96f88fcc300f2d2052c73d</guid>
+</item>
+<item>
+	<title>014第一个数字大脑被上传没那么邪乎</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 29 Apr 2026 18:36:41 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/014第一个数字大脑被上传没那么邪乎.mp4" length="6618561" type="video/mp4"/>
+	<itunes:duration>0:10:42</itunes:duration>
+	<guid isPermaLink="false">zhuoke_c84dd67f5d3c7f28c2a7025bbc59a73b</guid>
+</item>
+<item>
+	<title>015谷歌在AI竞赛里是怎么落后又是怎么追上的</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 29 Apr 2026 18:36:42 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/015谷歌在AI竞赛里是怎么落后又是怎么追上的.mp4" length="7856064" type="video/mp4"/>
+	<itunes:duration>0:12:42</itunes:duration>
+	<guid isPermaLink="false">zhuoke_6d62055db04065752681fcf0600df8bf</guid>
+</item>
+<item>
+	<title>016Meta收购Manus黄了</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 29 Apr 2026 18:36:42 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/016Meta收购Manus黄了.mp4" length="7646859" type="video/mp4"/>
+	<itunes:duration>0:12:22</itunes:duration>
+	<guid isPermaLink="false">zhuoke_691ef8ae3f7be7038061fa01483c4bff</guid>
 </item>
 </channel>
 </rss>
