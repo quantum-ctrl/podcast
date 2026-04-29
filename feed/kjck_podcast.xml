@@ -87,10 +87,42 @@
 <item>
 	<title>008Claude自我意识觉醒了</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Mon, 20 Apr 2026 21:47:35 UTC</pubDate>
+	<pubDate>Mon, 20 Apr 2026 23:46:32 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/008Claude自我意识觉醒了.mp4" length="7126706" type="video/mp4"/>
 	<itunes:duration>0:11:32</itunes:duration>
 	<guid isPermaLink="false">zhuoke_f8d85a45ff3afca5aaa83a7f0252badc</guid>
+</item>
+<item>
+	<title>009美国重返月球上这个计划为什么诞生</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 29 Apr 2026 18:34:18 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/009美国重返月球上这个计划为什么诞生.mp4" length="7788290" type="video/mp4"/>
+	<itunes:duration>0:12:36</itunes:duration>
+	<guid isPermaLink="false">zhuoke_ffffb999531c1a4bc029681a2a1da9d2</guid>
+</item>
+<item>
+	<title>010美国重返月球中与中国的竞争</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 29 Apr 2026 18:34:19 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/010美国重返月球中与中国的竞争.mp4" length="8463218" type="video/mp4"/>
+	<itunes:duration>0:13:41</itunes:duration>
+	<guid isPermaLink="false">zhuoke_480972de2603733a327e80437de36dbe</guid>
+</item>
+<item>
+	<title>011美国重返月球下氦3神话</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 29 Apr 2026 18:34:19 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/011美国重返月球下氦3神话.mp4" length="9073378" type="video/mp4"/>
+	<itunes:duration>0:14:40</itunes:duration>
+	<guid isPermaLink="false">zhuoke_6c83d82b17b7dc29ce8ad7c49fef5804</guid>
+</item>
+<item>
+	<title>012问答有效失败伤自信机器人半马好看吗AI工具实名认证</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 29 Apr 2026 18:34:19 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/012问答有效失败伤自信机器人半马好看吗AI工具实名认证.mp4" length="7788290" type="video/mp4"/>
+	<itunes:duration>0:12:36</itunes:duration>
+	<guid isPermaLink="false">zhuoke_0028be31431fd67753aad7b7808bed4f</guid>
 </item>
 </channel>
 </rss>
