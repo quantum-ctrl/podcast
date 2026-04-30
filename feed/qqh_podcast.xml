@@ -142,10 +142,18 @@
 <item>
 	<title>vol.306-伊丽莎白俯冲凉皮</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Thu, 23 Apr 2026 23:38:50 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.306-伊丽莎白俯冲凉皮.mp3" length="75882623" type="audio/mpeg"/>
 	<itunes:duration>1:19:03</itunes:duration>
 	<guid isPermaLink="false">qqh_d7ae886825a53e7d3fd3bd1050d64a6b</guid>
+</item>
+<item>
+	<title>vol.307-刀老师本命年悄悄地选择（中②）“刀老师不嫁光头”</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Thu, 30 Apr 2026 23:45:16 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.307-刀老师本命年悄悄地选择（中②）“刀老师不嫁光头”.mp3" length="82272383" type="audio/mpeg"/>
+	<itunes:duration>1:25:42</itunes:duration>
+	<guid isPermaLink="false">qqh_16741176ff1cf077deb6c0950361d053</guid>
 </item>
 </channel>
 </rss>
