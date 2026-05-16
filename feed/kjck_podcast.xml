@@ -239,7 +239,7 @@
 <item>
 	<title>027蔡磊的渐冻症改变了什么</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Sat, 16 May 2026 19:40:10 UTC</pubDate>
+	<pubDate>Sat, 16 May 2026 21:38:26 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/027蔡磊的渐冻症改变了什么.mp4" length="6491313" type="video/mp4"/>
 	<itunes:duration>0:10:30</itunes:duration>
 	<guid isPermaLink="false">zhuoke_b9447ac5be650f97c5f0873247dc997f</guid>
@@ -247,18 +247,34 @@
 <item>
 	<title>028基因筛查预防疾病并不那么神奇</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Sat, 16 May 2026 19:40:11 UTC</pubDate>
+	<pubDate>Sat, 16 May 2026 21:38:26 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/028基因筛查预防疾病并不那么神奇.mp4" length="7665197" type="video/mp4"/>
 	<itunes:duration>0:12:24</itunes:duration>
 	<guid isPermaLink="false">zhuoke_3db9e1317b8156e69a2823f34954cf32</guid>
 </item>
 <item>
+	<title>029手机送测集体作弊</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sat, 16 May 2026 19:43:31 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/029手机送测集体作弊.mp4" length="7767767" type="video/mp4"/>
+	<itunes:duration>0:12:34</itunes:duration>
+	<guid isPermaLink="false">zhuoke_1c3675c590e17a79de12ca9901372fcb</guid>
+</item>
+<item>
 	<title>030问答美国又公布UFO资料了玻璃硬盘怎么回事</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Sat, 16 May 2026 19:40:11 UTC</pubDate>
+	<pubDate>Sat, 16 May 2026 21:38:26 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/030问答美国又公布UFO资料了玻璃硬盘怎么回事.mp4" length="7448266" type="video/mp4"/>
 	<itunes:duration>0:12:03</itunes:duration>
 	<guid isPermaLink="false">zhuoke_d215540a7dd986d8a0566b5e8466ef45</guid>
+</item>
+<item>
+	<title>031问答人造肉怎么样了维生素D怎么选防晒服怎么选</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sat, 16 May 2026 19:43:33 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/031问答人造肉怎么样了维生素D怎么选防晒服怎么选.mp4" length="7104056" type="video/mp4"/>
+	<itunes:duration>0:11:29</itunes:duration>
+	<guid isPermaLink="false">zhuoke_db30d38eb9b516d90d4aaac36b1b0f16</guid>
 </item>
 </channel>
 </rss>
