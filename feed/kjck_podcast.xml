@@ -335,7 +335,7 @@
 <item>
 	<title>039十周年致同学的一封信</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Thu, 28 May 2026 18:25:12 UTC</pubDate>
+	<pubDate>Thu, 28 May 2026 20:22:20 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/039十周年致同学的一封信.mp4" length="7454147" type="video/mp4"/>
 	<itunes:duration>0:12:03</itunes:duration>
 	<guid isPermaLink="false">zhuoke_b46642880b31e9e0b4bbba817a7eb989</guid>
@@ -343,7 +343,7 @@
 <item>
 	<title>039风险比较高2026年埃博拉病毒</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Thu, 28 May 2026 18:25:12 UTC</pubDate>
+	<pubDate>Thu, 28 May 2026 20:22:20 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/039风险比较高2026年埃博拉病毒.mp4" length="7313814" type="video/mp4"/>
 	<itunes:duration>0:11:50</itunes:duration>
 	<guid isPermaLink="false">zhuoke_6666f98cf56ac68e7a608ca44665fbb4</guid>
@@ -351,7 +351,7 @@
 <item>
 	<title>040华为韬定律到底是什么上优势在哪里</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Thu, 28 May 2026 18:25:13 UTC</pubDate>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/040华为韬定律到底是什么上优势在哪里.mp4" length="8691191" type="video/mp4"/>
 	<itunes:duration>0:14:03</itunes:duration>
 	<guid isPermaLink="false">zhuoke_b79a7cc5adb94b3d40b05bb9fac5fb96</guid>
@@ -359,10 +359,34 @@
 <item>
 	<title>041华为韬定律到底是什么下困难有哪些</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Thu, 28 May 2026 18:25:13 UTC</pubDate>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/041华为韬定律到底是什么下困难有哪些.mp4" length="9490839" type="video/mp4"/>
 	<itunes:duration>0:15:21</itunes:duration>
 	<guid isPermaLink="false">zhuoke_65103b8794b067404574b7e38032fa5f</guid>
+</item>
+<item>
+	<title>042问答鱼油促进痴呆症之前节目怎么更新耿同学谈不谈</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Mon, 01 Jun 2026 19:28:35 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/042问答鱼油促进痴呆症之前节目怎么更新耿同学谈不谈.mp4" length="6949355" type="video/mp4"/>
+	<itunes:duration>0:11:14</itunes:duration>
+	<guid isPermaLink="false">zhuoke_542f1c2ca34f3a1e57d1f848fe88aa1c</guid>
+</item>
+<item>
+	<title>043问答别人为什么不走韬定律之路轮胎更宽反而不费电</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Mon, 01 Jun 2026 19:28:36 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/043问答别人为什么不走韬定律之路轮胎更宽反而不费电.mp4" length="7084481" type="video/mp4"/>
+	<itunes:duration>0:11:28</itunes:duration>
+	<guid isPermaLink="false">zhuoke_bbfaf9219fe2d5bd88590473ca536025</guid>
+</item>
+<item>
+	<title>044学术江湖上耿同学揭露造假</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Mon, 01 Jun 2026 19:28:36 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/044学术江湖上耿同学揭露造假.mp4" length="6880238" type="video/mp4"/>
+	<itunes:duration>0:11:08</itunes:duration>
+	<guid isPermaLink="false">zhuoke_daec7105c6c6ce10de39ef4f6b765dc6</guid>
 </item>
 </channel>
 </rss>
