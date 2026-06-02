@@ -35,5 +35,13 @@
 	<itunes:duration>1:23:37</itunes:duration>
 	<guid isPermaLink="false">qqh_8561d0c4d3865f3a5ce4a13687042cde</guid>
 </item>
+<item>
+	<title>vol.311-卫塞节全解雇报上海</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Tue, 02 Jun 2026 08:19:33 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.311-卫塞节全解雇报上海.mp3" length="61024592" type="audio/mpeg"/>
+	<itunes:duration>1:03:34</itunes:duration>
+	<guid isPermaLink="false">qqh_4fb11730708c44918cd370b2aecbb33a</guid>
+</item>
 </channel>
 </rss>
