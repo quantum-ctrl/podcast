@@ -38,10 +38,18 @@
 <item>
 	<title>vol.311-卫塞节全解雇报上海</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Tue, 02 Jun 2026 08:19:33 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.311-卫塞节全解雇报上海.mp3" length="61024592" type="audio/mpeg"/>
 	<itunes:duration>1:03:34</itunes:duration>
 	<guid isPermaLink="false">qqh_4fb11730708c44918cd370b2aecbb33a</guid>
+</item>
+<item>
+	<title>vol.312-周华健新专辑鉴赏会</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Fri, 05 Jun 2026 00:00:36 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.312-周华健新专辑鉴赏会.mp3" length="84033663" type="audio/mpeg"/>
+	<itunes:duration>1:27:32</itunes:duration>
+	<guid isPermaLink="false">qqh_0f94201c04450f0dfcd4cc821f27981a</guid>
 </item>
 </channel>
 </rss>
