@@ -367,7 +367,7 @@
 <item>
 	<title>042问答鱼油促进痴呆症之前节目怎么更新耿同学谈不谈</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Mon, 01 Jun 2026 19:28:35 UTC</pubDate>
+	<pubDate>Mon, 1 Jun 2026 21:25:42 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/042问答鱼油促进痴呆症之前节目怎么更新耿同学谈不谈.mp4" length="6949355" type="video/mp4"/>
 	<itunes:duration>0:11:14</itunes:duration>
 	<guid isPermaLink="false">zhuoke_542f1c2ca34f3a1e57d1f848fe88aa1c</guid>
@@ -375,7 +375,7 @@
 <item>
 	<title>043问答别人为什么不走韬定律之路轮胎更宽反而不费电</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Mon, 01 Jun 2026 19:28:36 UTC</pubDate>
+	<pubDate>Mon, 1 Jun 2026 21:25:42 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/043问答别人为什么不走韬定律之路轮胎更宽反而不费电.mp4" length="7084481" type="video/mp4"/>
 	<itunes:duration>0:11:28</itunes:duration>
 	<guid isPermaLink="false">zhuoke_bbfaf9219fe2d5bd88590473ca536025</guid>
@@ -383,10 +383,42 @@
 <item>
 	<title>044学术江湖上耿同学揭露造假</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Mon, 01 Jun 2026 19:28:36 UTC</pubDate>
+	<pubDate>Mon, 1 Jun 2026 21:25:42 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/044学术江湖上耿同学揭露造假.mp4" length="6880238" type="video/mp4"/>
 	<itunes:duration>0:11:08</itunes:duration>
 	<guid isPermaLink="false">zhuoke_daec7105c6c6ce10de39ef4f6b765dc6</guid>
+</item>
+<item>
+	<title>045学术江湖中造假与揭假</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sat, 06 Jun 2026 09:34:35 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/045学术江湖中造假与揭假.mp4" length="8161090" type="video/mp4"/>
+	<itunes:duration>0:13:12</itunes:duration>
+	<guid isPermaLink="false">zhuoke_627e253865420dda21fe59291c20e761</guid>
+</item>
+<item>
+	<title>046学术江湖下科研造假怎么解决</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sat, 06 Jun 2026 09:34:35 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/046学术江湖下科研造假怎么解决.mp4" length="8681420" type="video/mp4"/>
+	<itunes:duration>0:14:02</itunes:duration>
+	<guid isPermaLink="false">zhuoke_ba958e17533a0cc2e30a6292529ee8ee</guid>
+</item>
+<item>
+	<title>047菜鸟变老江湖越来越难了</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sat, 06 Jun 2026 09:34:35 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/047菜鸟变老江湖越来越难了.mp4" length="6185974" type="video/mp4"/>
+	<itunes:duration>0:10:00</itunes:duration>
+	<guid isPermaLink="false">zhuoke_e431872ca7dde92e885cd4090f1b9ef6</guid>
+</item>
+<item>
+	<title>048问答冰箱保鲜除味器是智商税吗文班亚马在少林寺训练什么</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sat, 06 Jun 2026 09:34:36 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/048问答冰箱保鲜除味器是智商税吗文班亚马在少林寺训练什么.mp4" length="8107207" type="video/mp4"/>
+	<itunes:duration>0:13:07</itunes:duration>
+	<guid isPermaLink="false">zhuoke_aadf687873ec3aba907dfdfe27003e2b</guid>
 </item>
 </channel>
 </rss>
