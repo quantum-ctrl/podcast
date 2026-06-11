@@ -391,7 +391,7 @@
 <item>
 	<title>045学术江湖中造假与揭假</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Sat, 06 Jun 2026 09:34:35 UTC</pubDate>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/045学术江湖中造假与揭假.mp4" length="8161090" type="video/mp4"/>
 	<itunes:duration>0:13:12</itunes:duration>
 	<guid isPermaLink="false">zhuoke_627e253865420dda21fe59291c20e761</guid>
@@ -399,7 +399,7 @@
 <item>
 	<title>046学术江湖下科研造假怎么解决</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Sat, 06 Jun 2026 09:34:35 UTC</pubDate>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/046学术江湖下科研造假怎么解决.mp4" length="8681420" type="video/mp4"/>
 	<itunes:duration>0:14:02</itunes:duration>
 	<guid isPermaLink="false">zhuoke_ba958e17533a0cc2e30a6292529ee8ee</guid>
@@ -407,7 +407,7 @@
 <item>
 	<title>047菜鸟变老江湖越来越难了</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Sat, 06 Jun 2026 09:34:35 UTC</pubDate>
+	<pubDate>Sat, 6 Jun 2026 11:32:00 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/047菜鸟变老江湖越来越难了.mp4" length="6185974" type="video/mp4"/>
 	<itunes:duration>0:10:00</itunes:duration>
 	<guid isPermaLink="false">zhuoke_e431872ca7dde92e885cd4090f1b9ef6</guid>
@@ -415,10 +415,50 @@
 <item>
 	<title>048问答冰箱保鲜除味器是智商税吗文班亚马在少林寺训练什么</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Sat, 06 Jun 2026 09:34:36 UTC</pubDate>
+	<pubDate>Wed, 15 Apr 2026 21:49:45 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/048问答冰箱保鲜除味器是智商税吗文班亚马在少林寺训练什么.mp4" length="8107207" type="video/mp4"/>
 	<itunes:duration>0:13:07</itunes:duration>
 	<guid isPermaLink="false">zhuoke_aadf687873ec3aba907dfdfe27003e2b</guid>
+</item>
+<item>
+	<title>049问答NV的新处理器怎么回事钠电池有新消息吗</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Thu, 11 Jun 2026 19:55:15 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/049问答NV的新处理器怎么回事钠电池有新消息吗.mp4" length="8175060" type="video/mp4"/>
+	<itunes:duration>0:13:13</itunes:duration>
+	<guid isPermaLink="false">zhuoke_3e16a25e009841832d81e24e1141cee9</guid>
+</item>
+<item>
+	<title>050学术干电池</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Thu, 11 Jun 2026 19:55:15 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/050学术干电池.mp4" length="7162406" type="video/mp4"/>
+	<itunes:duration>0:11:35</itunes:duration>
+	<guid isPermaLink="false">zhuoke_38a3c4f693aed9450b32dd00ebfa39e6</guid>
+</item>
+<item>
+	<title>051科学家远离美国上数学家们不乐意了</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Thu, 11 Jun 2026 19:55:15 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/051科学家远离美国上数学家们不乐意了.mp4" length="6754728" type="video/mp4"/>
+	<itunes:duration>0:10:55</itunes:duration>
+	<guid isPermaLink="false">zhuoke_0cd161d4e3b2c5d363a9f1f21321a3b8</guid>
+</item>
+<item>
+	<title>052科学家远离美国下总体情况</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Thu, 11 Jun 2026 19:55:16 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/052科学家远离美国下总体情况.mp4" length="8402464" type="video/mp4"/>
+	<itunes:duration>0:13:36</itunes:duration>
+	<guid isPermaLink="false">zhuoke_da11e7c0defe9184d945ce884ce51ff2</guid>
+</item>
+<item>
+	<title>053AI接近自我进化</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Thu, 11 Jun 2026 19:55:16 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/053AI接近自我进化.mp4" length="7938771" type="video/mp4"/>
+	<itunes:duration>0:12:50</itunes:duration>
+	<guid isPermaLink="false">zhuoke_bc48619fd5af2418f5e49d9d3f186e24</guid>
 </item>
 </channel>
 </rss>
