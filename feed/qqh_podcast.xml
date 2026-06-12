@@ -67,5 +67,13 @@
 	<itunes:duration>1:27:32</itunes:duration>
 	<guid isPermaLink="false">qqh_0f94201c04450f0dfcd4cc821f27981a</guid>
 </item>
+<item>
+	<title>vol.313-世界杯开幕，巴别塔死机</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Fri, 12 Jun 2026 00:16:51 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.313-世界杯开幕，巴别塔死机.mp3" length="80464292" type="audio/mpeg"/>
+	<itunes:duration>1:23:49</itunes:duration>
+	<guid isPermaLink="false">qqh_e277eef4a9b1879ae5b887755ef44e9f</guid>
+</item>
 </channel>
 </rss>
