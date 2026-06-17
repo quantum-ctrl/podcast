@@ -423,7 +423,7 @@
 <item>
 	<title>049问答NV的新处理器怎么回事钠电池有新消息吗</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Thu, 11 Jun 2026 19:55:15 UTC</pubDate>
+	<pubDate>Wed, 15 Apr 2026 21:49:45 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/049问答NV的新处理器怎么回事钠电池有新消息吗.mp4" length="8175060" type="video/mp4"/>
 	<itunes:duration>0:13:13</itunes:duration>
 	<guid isPermaLink="false">zhuoke_3e16a25e009841832d81e24e1141cee9</guid>
@@ -431,7 +431,7 @@
 <item>
 	<title>050学术干电池</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Thu, 11 Jun 2026 19:55:15 UTC</pubDate>
+	<pubDate>Thu, 11 Jun 2026 21:50:59 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/050学术干电池.mp4" length="7162406" type="video/mp4"/>
 	<itunes:duration>0:11:35</itunes:duration>
 	<guid isPermaLink="false">zhuoke_38a3c4f693aed9450b32dd00ebfa39e6</guid>
@@ -439,7 +439,7 @@
 <item>
 	<title>051科学家远离美国上数学家们不乐意了</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Thu, 11 Jun 2026 19:55:15 UTC</pubDate>
+	<pubDate>Thu, 11 Jun 2026 21:50:59 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/051科学家远离美国上数学家们不乐意了.mp4" length="6754728" type="video/mp4"/>
 	<itunes:duration>0:10:55</itunes:duration>
 	<guid isPermaLink="false">zhuoke_0cd161d4e3b2c5d363a9f1f21321a3b8</guid>
@@ -447,7 +447,7 @@
 <item>
 	<title>052科学家远离美国下总体情况</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Thu, 11 Jun 2026 19:55:16 UTC</pubDate>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/052科学家远离美国下总体情况.mp4" length="8402464" type="video/mp4"/>
 	<itunes:duration>0:13:36</itunes:duration>
 	<guid isPermaLink="false">zhuoke_da11e7c0defe9184d945ce884ce51ff2</guid>
@@ -455,10 +455,18 @@
 <item>
 	<title>053AI接近自我进化</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Thu, 11 Jun 2026 19:55:16 UTC</pubDate>
+	<pubDate>Thu, 11 Jun 2026 21:52:16 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/053AI接近自我进化.mp4" length="7938771" type="video/mp4"/>
 	<itunes:duration>0:12:50</itunes:duration>
 	<guid isPermaLink="false">zhuoke_bc48619fd5af2418f5e49d9d3f186e24</guid>
+</item>
+<item>
+	<title>054问答AI手机怎么选胰腺癌可以治愈了</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Wed, 17 Jun 2026 18:22:58 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/054问答AI手机怎么选胰腺癌可以治愈了.mp4" length="6752683" type="video/mp4"/>
+	<itunes:duration>0:10:55</itunes:duration>
+	<guid isPermaLink="false">zhuoke_efa397e98a173cb24221475b13995f10</guid>
 </item>
 </channel>
 </rss>
