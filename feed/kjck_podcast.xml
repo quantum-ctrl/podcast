@@ -471,7 +471,7 @@
 <item>
 	<title>055问答大语言模型到头了怎么看苹果发布会</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Wed, 17 Jun 2026 19:16:37 UTC</pubDate>
+	<pubDate>Wed, 17 Jun 2026 21:13:10 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/055问答大语言模型到头了怎么看苹果发布会.mp4" length="7486866" type="video/mp4"/>
 	<itunes:duration>0:12:06</itunes:duration>
 	<guid isPermaLink="false">zhuoke_f83f5e697be2058e558f9d24eeaf9d3c</guid>
@@ -479,7 +479,7 @@
 <item>
 	<title>056顶级模型被禁背后的逻辑</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Wed, 17 Jun 2026 19:16:37 UTC</pubDate>
+	<pubDate>Wed, 17 Jun 2026 21:13:10 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/056顶级模型被禁背后的逻辑.mp4" length="7419302" type="video/mp4"/>
 	<itunes:duration>0:12:00</itunes:duration>
 	<guid isPermaLink="false">zhuoke_9751d61f8356012c23ddf5467c3fbc9d</guid>
@@ -487,7 +487,7 @@
 <item>
 	<title>057D加密被废单机游戏大作会越来越少</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Wed, 17 Jun 2026 19:16:38 UTC</pubDate>
+	<pubDate>Wed, 15 Apr 2026 21:49:45 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/057D加密被废单机游戏大作会越来越少.mp4" length="8103200" type="video/mp4"/>
 	<itunes:duration>0:13:06</itunes:duration>
 	<guid isPermaLink="false">zhuoke_a7250f04d2d66d8f55399eac746fe045</guid>
@@ -495,10 +495,34 @@
 <item>
 	<title>058把二流业务包装成星辰大海新SpaceX上市</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Wed, 17 Jun 2026 19:16:38 UTC</pubDate>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/058把二流业务包装成星辰大海新SpaceX上市.mp4" length="9241429" type="video/mp4"/>
 	<itunes:duration>0:14:57</itunes:duration>
 	<guid isPermaLink="false">zhuoke_431c1f62c900ae2dee096f86023b7eda</guid>
+</item>
+<item>
+	<title>059今年的厄尔尼诺和全球气候剧变</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sun, 21 Jun 2026 15:21:26 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/059今年的厄尔尼诺和全球气候剧变.mp4" length="8418235" type="video/mp4"/>
+	<itunes:duration>0:13:37</itunes:duration>
+	<guid isPermaLink="false">zhuoke_d635e265c63bc38464090942e0fab3e7</guid>
+</item>
+<item>
+	<title>060问答怎么选专业NV为什么和钻石企业接触</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sun, 21 Jun 2026 15:21:27 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/060问答怎么选专业NV为什么和钻石企业接触.mp4" length="8838438" type="video/mp4"/>
+	<itunes:duration>0:14:18</itunes:duration>
+	<guid isPermaLink="false">zhuoke_cff8f24b339d8b2e96defd63b368200c</guid>
+</item>
+<item>
+	<title>061问答马斯克怎么画饼AI可以证明黎曼猜想吗</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sun, 21 Jun 2026 15:21:27 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/061问答马斯克怎么画饼AI可以证明黎曼猜想吗.mp4" length="8094546" type="video/mp4"/>
+	<itunes:duration>0:13:05</itunes:duration>
+	<guid isPermaLink="false">zhuoke_92d620bfaa4e7fba401c39b601115b06</guid>
 </item>
 </channel>
 </rss>
