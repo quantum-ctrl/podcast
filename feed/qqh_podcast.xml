@@ -86,10 +86,18 @@
 <item>
 	<title>vol.315-小伙子悄悄地艰难选择 2026篇</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Fri, 26 Jun 2026 00:06:34 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.315-小伙子悄悄地艰难选择%202026篇.mp3" length="80190528" type="audio/mpeg"/>
 	<itunes:duration>1:23:32</itunes:duration>
 	<guid isPermaLink="false">qqh_69b6ff1680938ef26b4602c9531de716</guid>
+</item>
+<item>
+	<title>vol.316-校园之外 巴厘之伙</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Thu, 02 Jul 2026 23:58:30 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.316-校园之外%20巴厘之伙.mp3" length="68689964" type="audio/mpeg"/>
+	<itunes:duration>1:11:33</itunes:duration>
+	<guid isPermaLink="false">qqh_a078bae99238c5eddf5cd7464962ee73</guid>
 </item>
 </channel>
 </rss>
