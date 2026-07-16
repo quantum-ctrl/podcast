@@ -102,10 +102,18 @@
 <item>
 	<title>vol.317-高考做客 一起变美</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Fri, 10 Jul 2026 00:01:16 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.317-高考做客%20一起变美.mp3" length="67550607" type="audio/mpeg"/>
 	<itunes:duration>1:10:22</itunes:duration>
 	<guid isPermaLink="false">qqh_3f743a299db7d89949896b21d011b6d5</guid>
+</item>
+<item>
+	<title>vol.318-杂技泰勒足球课</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Thu, 16 Jul 2026 23:53:56 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.318-杂技泰勒足球课.mp3" length="66402473" type="audio/mpeg"/>
+	<itunes:duration>1:09:10</itunes:duration>
+	<guid isPermaLink="false">qqh_f33a06f5c453e1443c61db815c9a9b58</guid>
 </item>
 </channel>
 </rss>
