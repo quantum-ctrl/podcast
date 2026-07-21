@@ -631,7 +631,7 @@
 <item>
 	<title>075顶级模型里的歇斯底里</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Wed, 15 Jul 2026 08:12:58 UTC</pubDate>
+	<pubDate>Thu, 11 Jun 2026 21:52:16 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/075顶级模型里的歇斯底里.mp4" length="7781219" type="video/mp4"/>
 	<itunes:duration>0:12:35</itunes:duration>
 	<guid isPermaLink="false">zhuoke_eb8505e1f3e33647e96e9bc938e0c9d7</guid>
@@ -663,7 +663,7 @@
 <item>
 	<title>080Claude长出意识的新闻怎么理解</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Wed, 15 Jul 2026 08:13:14 UTC</pubDate>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/080Claude长出意识的新闻怎么理解.mp4" length="8370741" type="video/mp4"/>
 	<itunes:duration>0:13:32</itunes:duration>
 	<guid isPermaLink="false">zhuoke_23a74cdaf1bada169b24b7a35367c249</guid>
@@ -671,10 +671,58 @@
 <item>
 	<title>081汽车的发展进入大后期</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Wed, 15 Jul 2026 08:13:15 UTC</pubDate>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/081汽车的发展进入大后期.mp4" length="8645768" type="video/mp4"/>
 	<itunes:duration>0:13:59</itunes:duration>
 	<guid isPermaLink="false">zhuoke_a7b280e12ae9a2f9df7f4fd2db4336f0</guid>
+</item>
+<item>
+	<title>082人形机器人的表演升级了</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Tue, 21 Jul 2026 12:43:44 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/082人形机器人的表演升级了.mp4" length="7946181" type="video/mp4"/>
+	<itunes:duration>0:12:51</itunes:duration>
+	<guid isPermaLink="false">zhuoke_c2ad33810bf55daff5ef6cc06d6565a9</guid>
+</item>
+<item>
+	<title>083电动客机完全没戏</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Tue, 21 Jul 2026 12:43:45 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/083电动客机完全没戏.mp4" length="6454755" type="video/mp4"/>
+	<itunes:duration>0:10:26</itunes:duration>
+	<guid isPermaLink="false">zhuoke_8d83ed728e43992f396c0cdff9362d71</guid>
+</item>
+<item>
+	<title>084问答432宇宙频率训练专注力是哪来的</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Tue, 21 Jul 2026 12:43:45 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/084问答432宇宙频率训练专注力是哪来的.mp4" length="7517739" type="video/mp4"/>
+	<itunes:duration>0:12:09</itunes:duration>
+	<guid isPermaLink="false">zhuoke_68ed35f7a40dd02d65aa9c17231dec1b</guid>
+</item>
+<item>
+	<title>085问答人造生命为了什么菲尔兹奖提前泄露AI公司急眼了</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Tue, 21 Jul 2026 12:43:45 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/085问答人造生命为了什么菲尔兹奖提前泄露AI公司急眼了.mp4" length="7802097" type="video/mp4"/>
+	<itunes:duration>0:12:37</itunes:duration>
+	<guid isPermaLink="false">zhuoke_371605b912235efa82013989f98ec351</guid>
+</item>
+<item>
+	<title>086丘成桐数学班闹风波</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Tue, 21 Jul 2026 12:43:46 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/086丘成桐数学班闹风波.mp4" length="7459733" type="video/mp4"/>
+	<itunes:duration>0:12:04</itunes:duration>
+	<guid isPermaLink="false">zhuoke_be339fad1ddf183955271d7408fdc974</guid>
+</item>
+<item>
+	<title>087中国的菲尔兹奖上挂谷猜想</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Tue, 21 Jul 2026 12:43:46 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/087中国的菲尔兹奖上挂谷猜想.mp4" length="7304491" type="video/mp4"/>
+	<itunes:duration>0:11:49</itunes:duration>
+	<guid isPermaLink="false">zhuoke_90576fcd233484f2e62ac6f0d982e6c8</guid>
 </item>
 </channel>
 </rss>
