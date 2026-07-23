@@ -110,10 +110,18 @@
 <item>
 	<title>vol.318-杂技泰勒足球课</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Thu, 16 Jul 2026 23:53:56 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.318-杂技泰勒足球课.mp3" length="66402473" type="audio/mpeg"/>
 	<itunes:duration>1:09:10</itunes:duration>
 	<guid isPermaLink="false">qqh_f33a06f5c453e1443c61db815c9a9b58</guid>
+</item>
+<item>
+	<title>vol.319-长辛店国潮空调扇</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Thu, 23 Jul 2026 23:57:24 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.319-长辛店国潮空调扇.mp3" length="66531622" type="audio/mpeg"/>
+	<itunes:duration>1:09:18</itunes:duration>
+	<guid isPermaLink="false">qqh_ede125b6e1c56307d4fe01c30d91ba34</guid>
 </item>
 </channel>
 </rss>
