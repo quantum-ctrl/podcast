@@ -142,10 +142,18 @@
 <item>
 	<title>vol.322-百花奖踢中锋</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Thu, 13 Aug 2026 23:35:27 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.322-百花奖踢中锋.mp3" length="65933105" type="audio/mpeg"/>
 	<itunes:duration>1:08:41</itunes:duration>
 	<guid isPermaLink="false">qqh_ff1fd5450ad2e0e65cdd3513013c46ac</guid>
+</item>
+<item>
+	<title>vol.323-AI能源爽板子</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Thu, 20 Aug 2026 23:21:31 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.323-AI能源爽板子.mp3" length="72611257" type="audio/mpeg"/>
+	<itunes:duration>1:15:38</itunes:duration>
+	<guid isPermaLink="false">qqh_3a92e4b16d19b951d33cc6f3d7aea8b2</guid>
 </item>
 </channel>
 </rss>
