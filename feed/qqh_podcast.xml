@@ -150,10 +150,18 @@
 <item>
 	<title>vol.323-AI能源爽板子</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Thu, 20 Aug 2026 23:21:31 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.323-AI能源爽板子.mp3" length="72611257" type="audio/mpeg"/>
 	<itunes:duration>1:15:38</itunes:duration>
 	<guid isPermaLink="false">qqh_3a92e4b16d19b951d33cc6f3d7aea8b2</guid>
+</item>
+<item>
+	<title>vol.324-老同事集碗新米兰</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Fri, 28 Aug 2026 06:33:04 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.324-老同事集碗新米兰.mp3" length="68703338" type="audio/mpeg"/>
+	<itunes:duration>1:11:34</itunes:duration>
+	<guid isPermaLink="false">qqh_d07975f3ed218a2741439ee2bc0736cf</guid>
 </item>
 </channel>
 </rss>
