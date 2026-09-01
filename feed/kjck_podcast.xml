@@ -1004,5 +1004,21 @@
 	<itunes:duration>0:11:12</itunes:duration>
 	<guid isPermaLink="false">zhuoke_38f4d7d8aebe24552e4cf144c0ee539b</guid>
 </item>
+<item>
+	<title>122</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Tue, 1 Sep 2026 13:48:58 +0200</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/122.mp4" length="7292185" type="video/mp4"/>
+	<itunes:duration>0:11:48</itunes:duration>
+	<guid isPermaLink="false">zhuoke_15450d1f787c842a5b8ad240b185d1ed</guid>
+</item>
+<item>
+	<title>123</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Fri, 3 Apr 2026 21:35:24 +0200</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/123.mp4" length="8243776" type="video/mp4"/>
+	<itunes:duration>0:13:20</itunes:duration>
+	<guid isPermaLink="false">zhuoke_757d204b68e8e1c419288694ab908f55</guid>
+</item>
 </channel>
 </rss>
