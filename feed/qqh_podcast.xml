@@ -166,10 +166,18 @@
 <item>
 	<title>vol.325-擎天柱谢幕，球星还能踢</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Fri, 04 Sep 2026 00:38:13 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.325-擎天柱谢幕，球星还能踢.mp3" length="71921206" type="audio/mpeg"/>
 	<itunes:duration>1:14:55</itunes:duration>
 	<guid isPermaLink="false">qqh_7223a6b133216027da6e8a1e885e0f8a</guid>
+</item>
+<item>
+	<title>vol.326-深入模式口，草原奶嚼口</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Fri, 11 Sep 2026 00:47:32 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.326-深入模式口，草原奶嚼口.mp3" length="65447018" type="audio/mpeg"/>
+	<itunes:duration>1:08:10</itunes:duration>
+	<guid isPermaLink="false">qqh_bd93cc981393a02138fe83249473941b</guid>
 </item>
 </channel>
 </rss>
