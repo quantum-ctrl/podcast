@@ -182,10 +182,18 @@
 <item>
 	<title>vol.327-煎饼航程敬大姐</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Fri, 18 Sep 2026 01:00:39 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.327-煎饼航程敬大姐.mp3" length="64399613" type="audio/mpeg"/>
 	<itunes:duration>1:07:05</itunes:duration>
 	<guid isPermaLink="false">qqh_08ff7077beb07c9f28df1a051d3129a7</guid>
+</item>
+<item>
+	<title>vol.328-舞蹈新风暴，按摩文件袋</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Fri, 25 Sep 2026 01:09:26 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.328-舞蹈新风暴，按摩文件袋.mp3" length="71389980" type="audio/mpeg"/>
+	<itunes:duration>1:14:22</itunes:duration>
+	<guid isPermaLink="false">qqh_a561b1fe7a797ee7d23c8c560b2f04f3</guid>
 </item>
 </channel>
 </rss>
