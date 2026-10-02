@@ -190,10 +190,18 @@
 <item>
 	<title>vol.328-舞蹈新风暴，按摩文件袋</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Fri, 25 Sep 2026 01:09:26 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.328-舞蹈新风暴，按摩文件袋.mp3" length="71389980" type="audio/mpeg"/>
 	<itunes:duration>1:14:22</itunes:duration>
 	<guid isPermaLink="false">qqh_a561b1fe7a797ee7d23c8c560b2f04f3</guid>
+</item>
+<item>
+	<title>vol.329-南美速报忆欢哥</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Fri, 02 Oct 2026 02:00:53 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.329-南美速报忆欢哥.mp3" length="71511606" type="audio/mpeg"/>
+	<itunes:duration>1:14:29</itunes:duration>
+	<guid isPermaLink="false">qqh_4da9d63000de230e1beb219d6ac9725c</guid>
 </item>
 </channel>
 </rss>
