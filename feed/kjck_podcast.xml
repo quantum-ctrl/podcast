@@ -1199,10 +1199,42 @@
 <item>
 	<title>146能量与寿命1线粒体的诞生</title>
 	<itunes:author>卓克</itunes:author>
-	<pubDate>Mon, 28 Sep 2026 20:27:53 UTC</pubDate>
+	<pubDate>Mon, 28 Sep 2026 22:08:39 +0200</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/146能量与寿命1线粒体的诞生.mp4" length="6584707" type="video/mp4"/>
 	<itunes:duration>0:10:39</itunes:duration>
 	<guid isPermaLink="false">zhuoke_389da0d64630b15efbe1fdb999563f15</guid>
+</item>
+<item>
+	<title>147能量与寿命2线粒体的劣质化</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sat, 03 Oct 2026 19:50:12 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/147能量与寿命2线粒体的劣质化.mp4" length="6741313" type="video/mp4"/>
+	<itunes:duration>0:10:54</itunes:duration>
+	<guid isPermaLink="false">zhuoke_b8c48ec4e5af8b076fc8868e32c77884</guid>
+</item>
+<item>
+	<title>148能量与寿命3疗伤的希望</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sat, 03 Oct 2026 19:50:12 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/148能量与寿命3疗伤的希望.mp4" length="7508585" type="video/mp4"/>
+	<itunes:duration>0:12:09</itunes:duration>
+	<guid isPermaLink="false">zhuoke_c4997a99fbb04bbc03c12a54c8ec438f</guid>
+</item>
+<item>
+	<title>149问答数学问题是有限的吗iPhoneDuo有优势吗</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sat, 03 Oct 2026 19:50:12 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/149问答数学问题是有限的吗iPhoneDuo有优势吗.mp4" length="6306229" type="video/mp4"/>
+	<itunes:duration>0:10:12</itunes:duration>
+	<guid isPermaLink="false">zhuoke_4084f256a712eb699c6b64b37bdedf26</guid>
+</item>
+<item>
+	<title>150问答大模型蒸馏算偷窃吗蓝光伤害眼睛吗</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sat, 03 Oct 2026 19:50:13 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/150问答大模型蒸馏算偷窃吗蓝光伤害眼睛吗.mp4" length="6298958" type="video/mp4"/>
+	<itunes:duration>0:10:11</itunes:duration>
+	<guid isPermaLink="false">zhuoke_cf81cf169559c764889c7aa4448e7c6f</guid>
 </item>
 </channel>
 </rss>
