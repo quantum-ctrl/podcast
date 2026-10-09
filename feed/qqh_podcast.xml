@@ -198,10 +198,18 @@
 <item>
 	<title>vol.329-南美速报忆欢哥</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Fri, 02 Oct 2026 02:00:53 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.329-南美速报忆欢哥.mp3" length="71511606" type="audio/mpeg"/>
 	<itunes:duration>1:14:29</itunes:duration>
 	<guid isPermaLink="false">qqh_4da9d63000de230e1beb219d6ac9725c</guid>
+</item>
+<item>
+	<title>vol.330-秘鲁秘境、盘三大球、双节见闻</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Fri, 09 Oct 2026 02:49:40 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.330-秘鲁秘境、盘三大球、双节见闻.mp3" length="86273506" type="audio/mpeg"/>
+	<itunes:duration>1:29:52</itunes:duration>
+	<guid isPermaLink="false">qqh_a4c5ff0e91fc1fce53f10e7c88669e4f</guid>
 </item>
 </channel>
 </rss>
