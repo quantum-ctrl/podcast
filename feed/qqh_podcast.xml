@@ -206,10 +206,18 @@
 <item>
 	<title>vol.330-秘鲁秘境、盘三大球、双节见闻</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Fri, 09 Oct 2026 02:49:40 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.330-秘鲁秘境、盘三大球、双节见闻.mp3" length="86273506" type="audio/mpeg"/>
 	<itunes:duration>1:29:52</itunes:duration>
 	<guid isPermaLink="false">qqh_a4c5ff0e91fc1fce53f10e7c88669e4f</guid>
+</item>
+<item>
+	<title>vol.331-大邪神换头记</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Fri, 16 Oct 2026 01:04:30 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.331-大邪神换头记.mp3" length="77723733" type="audio/mpeg"/>
+	<itunes:duration>1:20:58</itunes:duration>
+	<guid isPermaLink="false">qqh_2b0d10af050f21ce1ac0bde31363b482</guid>
 </item>
 </channel>
 </rss>
