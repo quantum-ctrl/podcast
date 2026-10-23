@@ -214,10 +214,18 @@
 <item>
 	<title>vol.331-大邪神换头记</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Fri, 16 Oct 2026 01:04:30 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.331-大邪神换头记.mp3" length="77723733" type="audio/mpeg"/>
 	<itunes:duration>1:20:58</itunes:duration>
 	<guid isPermaLink="false">qqh_2b0d10af050f21ce1ac0bde31363b482</guid>
+</item>
+<item>
+	<title>vol.332-过期胶卷种桂花</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Fri, 23 Oct 2026 01:30:06 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.332-过期胶卷种桂花.mp3" length="68017467" type="audio/mpeg"/>
+	<itunes:duration>1:10:51</itunes:duration>
+	<guid isPermaLink="false">qqh_72d649fef23eb1578a9a0c094774d185</guid>
 </item>
 </channel>
 </rss>
