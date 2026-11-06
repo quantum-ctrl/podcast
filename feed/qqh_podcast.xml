@@ -230,10 +230,18 @@
 <item>
 	<title>vol.333-大眼女朋友重装系统</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Fri, 30 Oct 2026 02:29:33 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.333-大眼女朋友重装系统.mp3" length="74553931" type="audio/mpeg"/>
 	<itunes:duration>1:17:40</itunes:duration>
 	<guid isPermaLink="false">qqh_763a4680b2dc8772c2285b536e023223</guid>
+</item>
+<item>
+	<title>vol.334-功夫朋克歌最多</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Fri, 06 Nov 2026 03:48:24 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.334-功夫朋克歌最多.mp3" length="68303351" type="audio/mpeg"/>
+	<itunes:duration>1:11:09</itunes:duration>
+	<guid isPermaLink="false">qqh_cf0efb86c44d9c928f6a2f89a97b7378</guid>
 </item>
 </channel>
 </rss>
