@@ -321,6 +321,10 @@ if __name__ == "__main__":
     # Step 2: If we got the info, download the audio
     if audio_url and title:
         file_name = sanitize_filename(title) + ".mp3"
+        episode = re.match(r"vol\.(\d+)", file_name, re.IGNORECASE)
+        if episode and int(episode.group(1)) < 330:
+            print(f"Skipping episode below 330: {file_name}")
+            raise SystemExit(0)
         if not download_audio(audio_url, request_headers, file_name):
             raise SystemExit(1)
     else:
