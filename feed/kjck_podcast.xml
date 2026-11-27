@@ -13,6 +13,30 @@
 <podcast:locked>no</podcast:locked>
 <podcast:guid>76722d3d-355b-513b-a9a3-52467144709d</podcast:guid>
 <item>
+	<title>199问答内存什么时候降价黎曼猜想的实用价值</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/199问答内存什么时候降价黎曼猜想的实用价值.mp4" length="8484641" type="video/mp4"/>
+	<itunes:duration>0:13:43</itunes:duration>
+	<guid isPermaLink="false">zhuoke_0590494373547c7207ac08e1ea1a63cb</guid>
+</item>
+<item>
+	<title>198问答英伟达为什么不卖更高价GPU指纹能消除吗</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/198问答英伟达为什么不卖更高价GPU指纹能消除吗.mp4" length="7026994" type="video/mp4"/>
+	<itunes:duration>0:11:22</itunes:duration>
+	<guid isPermaLink="false">zhuoke_36afa21ad894499d69cbe0aeeed16566</guid>
+</item>
+<item>
+	<title>197预防近视新疗法离焦镜片</title>
+	<itunes:author>卓克</itunes:author>
+	<pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/zhuoke/197预防近视新疗法离焦镜片.mp4" length="6857737" type="video/mp4"/>
+	<itunes:duration>0:11:05</itunes:duration>
+	<guid isPermaLink="false">zhuoke_5ebd38cad24e1ebae017e6c860a5334f</guid>
+</item>
+<item>
 	<title>196黄仁勋回归英伟达AI继续退潮</title>
 	<itunes:author>卓克</itunes:author>
 	<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
