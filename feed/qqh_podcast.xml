@@ -62,10 +62,18 @@
 <item>
 	<title>vol.336-球场迷信，重生先锋</title>
 	<itunes:author>跟宇宙结婚</itunes:author>
-	<pubDate>Fri, 20 Nov 2026 03:52:40 UTC</pubDate>
+	<pubDate>Fri, 2 Jan 2026 21:55:49 +0000</pubDate>
 	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.336-球场迷信，重生先锋.mp3" length="67143097" type="audio/mpeg"/>
 	<itunes:duration>1:09:56</itunes:duration>
 	<guid isPermaLink="false">qqh_8eff4d4df71ca093ee036fe1e76078f1</guid>
+</item>
+<item>
+	<title>vol.337-青年悄悄地艰难选择 2026篇</title>
+	<itunes:author>跟宇宙结婚</itunes:author>
+	<pubDate>Fri, 27 Nov 2026 04:43:00 UTC</pubDate>
+	<enclosure url="https://raw.githubusercontent.com/quantum-ctrl/podcast/main/audios/qqh/vol.337-青年悄悄地艰难选择%202026篇.mp3" length="85042617" type="audio/mpeg"/>
+	<itunes:duration>1:28:35</itunes:duration>
+	<guid isPermaLink="false">qqh_513ac3d707b068f16cb3b0b39e25c1cd</guid>
 </item>
 </channel>
 </rss>
